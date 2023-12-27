@@ -3,7 +3,7 @@
 
 
 #Things I code with
-🦾 ![python badge](https://img.shields.io/badge/-python-3776AB?style=flat&logo=python)
+🦾 ![python badge](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Java&logoColor=white)
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
