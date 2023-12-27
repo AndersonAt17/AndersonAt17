@@ -8,7 +8,7 @@
 ## Open source projects
 
 | 🎁 Projects | ⭐Stars | 📚Forks | 👥Issues | 📬Pull requests
-| ------ | :------: | ------ | ------ | ------ |
+| ------ | :------: | ------ | ------ | :------: |
 | [proj_Rpass](https://github.com/AndersonAt17/R_data_science) | ![star badge](https://img.shields.io/badge/stars-1-blue) | ![forks badge](https://img.shields.io/badge/forks-1-blue) | ![issues badge](https://img.shields.io/badge/issues-1-yellow) | ![pull requests badge](https://img.shields.io/badge/PR-1-yellow) |
 | proj_SEMI | ![star badge](https://img.shields.io/badge/stars-1-blue) | ![forks badge](https://img.shields.io/badge/forks-1-blue) | ![issues badge](https://img.shields.io/badge/issues-1-yellow) | ![pull requests badge](https://img.shields.io/badge/PR-1-yellow) |
 | Review_payPass | ![star badge](https://img.shields.io/badge/stars-1-blue) | ![forks badge](https://img.shields.io/badge/forks-1-blue) | ![issues badge](https://img.shields.io/badge/issues-1-yellow) | ![pull requests badge](https://img.shields.io/badge/PR-1-yellow) |
