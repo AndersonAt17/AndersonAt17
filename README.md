@@ -1,8 +1,6 @@
 ### :alien: Nice to see you 👋
-# :alien:
-#  Anderson
-## _The Last Markdown Editor, Ever_
-
+#  I'm Jeong Ho, data scientist from 🇰🇷 Busan, Republic of Korea, currently living in Busan 🌊
+#  and wanna be DBA and cloud architect on AWS #F05032
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
