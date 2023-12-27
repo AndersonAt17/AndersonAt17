@@ -9,7 +9,7 @@
 
 | 🎁 Projects | ⭐Stars | 📚Forks | 👥Issues | 📬Pull requests
 | ------ | ------ | ------ | ------ | ------ |
-| [proj_Rpass](https://github.com/AndersonAt17/R_data_science) | https://img.shields.io/badge/stars-1-blue | https://img.shields.io/badge/forks-1-blue | https://img.shields.io/badge/issues-1 open-yellow | https://img.shields.io/badge/pull requests-1 open- yellow |
+| [proj_Rpass](https://github.com/AndersonAt17/R_data_science) | ![star badge](https://img.shields.io/badge/stars-1-blue) | https://img.shields.io/badge/forks-1-blue | https://img.shields.io/badge/issues-1 open-yellow | https://img.shields.io/badge/pull requests-1 open- yellow |
 | proj_SEMI | [plugins/github/README.md][PlGh] | aaa | bbb | ccc |
 | Review_payPass | [plugins/googledrive/README.md][PlGd] | aaa | bbb | ccc |
 | Proj_Anormalstock | [plugins/onedrive/README.md][PlOd] | aaa | bbb | ccc |
