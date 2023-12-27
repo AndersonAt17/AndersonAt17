@@ -8,13 +8,13 @@
 ## Open source projects
 
 | 🎁 Projects | ⭐Stars | 📚Forks | 👥Issues | 📬Pull requests
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| ------ | ------ | ------ | ------ | ------ |
+| Dropbox | [plugins/dropbox/README.md][PlDb] | aaa | bbb | ccc |
+| GitHub | [plugins/github/README.md][PlGh] | aaa | bbb | ccc |
+| Google Drive | [plugins/googledrive/README.md][PlGd] | aaa | bbb | ccc |
+| OneDrive | [plugins/onedrive/README.md][PlOd] | aaa | bbb | ccc |
+| Medium | [plugins/medium/README.md][PlMe] | aaa | bbb | ccc |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] | aaa | bbb | ccc |
 
 ## Development
 
