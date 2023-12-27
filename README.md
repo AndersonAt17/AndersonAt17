@@ -3,7 +3,7 @@
 
 
 #Things I code with
-🦾 ![python badge](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=yellow)  ![git badge](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=black) ![github badge](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=black)
+🦾 ![python badge](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=yellow)  ![git badge](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=black) ![github badge](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
 
 
 
