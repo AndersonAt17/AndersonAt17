@@ -5,49 +5,9 @@
 #Things I code with  
 ![python badge](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=yellow) ![git badge](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=black) ![github badge](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white) ![mysql badge](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white) ![R badge](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white) ![oracle badge](https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white) ![tensorflow badge](https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=black) ![aws badge](https://img.shields.io/badge/aws-232F3E?style=flat&logo=aws&logoColor=white)     
 
-## Tech
+## Open source projects
 
-Dillinger uses a number of open source projects to work properly:
-
-- [AngularJS] - HTML enhanced for web apps!
-- [Ace Editor] - awesome web-based text editor
-- [markdown-it] - Markdown parser done right. Fast and easy to extend.
-- [Twitter Bootstrap] - great UI boilerplate for modern web apps
-- [node.js] - evented I/O for the backend
-- [Express] - fast node.js network app framework [@tjholowaychuk]
-- [Gulp] - the streaming build system
-- [Breakdance](https://breakdance.github.io/breakdance/) - HTML
-to Markdown converter
-- [jQuery] - duh
-
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
-
-## Installation
-
-Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
-
-Install the dependencies and devDependencies and start the server.
-
-```sh
-cd dillinger
-npm i
-node app
-```
-
-For production environments...
-
-```sh
-npm install --production
-NODE_ENV=production node app
-```
-
-## Plugins
-
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
-
-| Plugin | README |
+| 🎁 Projects | ⭐Stars | 📚Forks | 👥Issues | 📬Pull requests
 | ------ | ------ |
 | Dropbox | [plugins/dropbox/README.md][PlDb] |
 | GitHub | [plugins/github/README.md][PlGh] |
