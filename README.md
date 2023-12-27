@@ -1,7 +1,10 @@
 ### :alien: Nice to see you 👋
 ####  I'm Jeong Ho, data scientist from Busan, Republic of Korea, currently living in Busan 🌊
-####  and wanna be DBA and cloud architect on AWS 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
+
+#Things I code with
+🦾 [![python badge](https://img.shields.io/badge/-python-3776AB?style=flat&logo=python)]
+
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
