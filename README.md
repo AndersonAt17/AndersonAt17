@@ -17,6 +17,9 @@
 
 ## My latest posts
 
+ - 📑technical paper
+   deep learning _ geo front (sci)
+
 Want to contribute? Great!
 
 Dillinger uses Gulp + Webpack for fast developing.
