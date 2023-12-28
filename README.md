@@ -17,7 +17,7 @@
 
 ## My latest posts
 
- - 📑technical paper
+ 📑technical paper
    deep learning _ geo front (sci)
 
 Want to contribute? Great!
