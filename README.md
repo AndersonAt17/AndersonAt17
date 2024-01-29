@@ -14,8 +14,8 @@
 
 ## My latest posts
 
- 📑technical paper
-   deep learning _ geo front (sci)
+ [📑technical paper
+   deep learning _ Phasepicking_seismic wave (sci)](https://www.github.com/AndersonAt17/R_data_science)
 
 
 ## Where to find me
