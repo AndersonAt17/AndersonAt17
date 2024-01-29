@@ -15,7 +15,7 @@
 ## My latest posts
 
  [📑technical paper
-   deep learning _ Phasepicking_seismic wave (sci)](https://www.github.com/AndersonAt17/R_data_science)
+   deep learning _ Phasepicking_seismic wave (sci)](https://www.github.com/AndersonAt17/R_data_science\deep_learning_sci_earthquake_phase_picking.pdf")
 
 
 ## Where to find me
