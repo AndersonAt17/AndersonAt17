@@ -22,13 +22,18 @@
 - ML engineer : Busan, South Korea (2023 - present)
 - Junior DBA (MySQL & Oracle) : Busan, South Korea (2023 - present)
 
+## Final Degree
+- Ph.D., Earthquake Engineering
+  
+## Education on Current Proffesion
+- Machine Learning A-Z: R and Python (Udemy)
+- 100 days of code: the complete Python pro bootcamp (Udemy)
+- AWS Certified Cloud Practitioner (Udemy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## And I'm
+- 🔭 currently working on open spurce project
+- 🌱 currently learning AWS Certified Solutions Architect Associate (SAA)
+  
+## TMI about me
+- 😄 Pronouns: he/him, sometimes it/it (machine: work mode)
+- ⚡ Fun fact: I'm V6 grade (bouldering)
