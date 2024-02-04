@@ -17,12 +17,11 @@
  [📑technical paper deep learning _ Phasepicking_seismic wave (sci)](https://www.github.com/AndersonAt17/R_data_science\deep_learning_sci_earthquake_phase_picking.pdf")
 
 
-## Where to find me
+## Professional Higilights
+### Data scientist - Busan, South Korea (2023 - present)
+### ML engineer - Busan, South Korea (2023 - present)
+### Junior DBA - Busan, South Korea (2023 - present)
 
-
-**AndersonAt17/AndersonAt17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
