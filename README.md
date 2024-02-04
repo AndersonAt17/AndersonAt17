@@ -18,9 +18,9 @@
 
 
 ## Professional Higilights
-Data scientist - Busan, South Korea (2023 - present)
-ML engineer - Busan, South Korea (2023 - present)
-Junior DBA - Busan, South Korea (2023 - present)
+- Data scientist : Busan, South Korea (2023 - present)
+- ML engineer : Busan, South Korea (2023 - present)
+- Junior DBA (MySQL & Oracle) : Busan, South Korea (2023 - present)
 
 
 - 🔭 I’m currently working on ...
