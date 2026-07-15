@@ -1,8 +1,7 @@
 # 🚀 Hello, I'm Jeong Ho Ryu
-### **AI Solution Architect | Data Scientist | Ph.D. in Earthquake Engineering**
+### **AI Solution Architect | MLOps Engineer | Ph.D. in Earthquake Engineering**
 
-다양한 도메인 지식과 인공지능 기술을 결합하여 실질적인 문제를 해결하는 시스템 설계자(Architect)입니다. 지진 공학 박사 학위와 건설 기술 연구원으로서의 전문성을 바탕으로, AI 모델링부터 인프라 설계까지 아우르는 솔루션을 구축하고 있습니다.
-
+다양한 도메인 지식과 인공지능 기술을 결합하여 실질적인 문제를 해결하는 시스템 설계자(Architect)입니다. 지진 공학 박사 학위와 건설 기술 연구원으로서의 전문성을 바탕으로, 직접 또는 데이터 사이언티스트가 개발한 머신러닝 모델을 실제 서비스 환경에 안정적으로 배포, 모니터링, 파이프라인 자동화(CI/CD)작업을 담당 합니다.
 ---
 
 ## 🛠 Tech Stack
