@@ -50,7 +50,7 @@
 - **AI Solution Architect:** 도메인 특화 데이터와 AI를 결합한 최적의 해법 구현
 - **Ex-CEO of FACDAMM (2019-2023):** 보급형 지진 조기 경보 장치 `EQ:Stick` 및 앱 `Qulert` 개발
 - **Ex-Senior Researcher:** 한국건설기술연구원 (2016-2019)
-- **Junior DBA:** MySQL & Oracle 운영 경험 (2023 - Present)
+- **Junior DBA:** PostgreSQL & MySQL 운영 경험 (2023 - Present)
 - **Ph.D.:** 부산대학교 토목공학과 (지진공학 전공)
 
 ---
