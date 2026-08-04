@@ -81,4 +81,4 @@
 ## 📫 Connect with me
 - **Location:** Seoul / Busan, Republic of Korea
 - **Expertise:** 지질/지반 데이터 해석 자동화, PINN 기반 물리 모델링, 인공지능 딥러닝 활용 교육
-- **TMI:** 볼더링 V6 레벨의 역동적인 개발자입니다 🧗‍♂️
+- **TMI:** 볼더링 V6 레벨의 역동적인 엔지니어입니다 🧗‍♂️
