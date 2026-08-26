@@ -69,6 +69,10 @@
 - **LEQNet (SCI Paper):** "Light Earthquake Deep Neural Network for Earthquake Detection and Phase Picking" (2022).
 - **Medical Data Standardization:** 보건복지부 주관 레거시 DB 분석 및 표준 스키마(HL7 FHIR) 설계.
 
+### **4. Commercialization & Edge AI (FACDAMM)**
+- **EQ:stick & Qulert:** 보급형 IoT 지진계측 디바이스 및 실시간 모바일 조기경보·대피 안내 시스템 개발, 상용화 후 건설사에 기술이전(Exit) 완료.
+  - 🔗 [Landing Page](https://eqstick.my.canva.site/product) | [Product Video](https://youtube.com/channel/UCX-RycVzMIj16cuC8zvxCcw?si=ZJXfWZDTb2CQUltl)
+  - 
 ---
 
 ## 🏆 Awards
